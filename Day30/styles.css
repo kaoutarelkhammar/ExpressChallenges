@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: white;
+  }
+  
+  h1 {
+    color: #c908ff;
+  }
+  
+  h2 {
+    color: rgb(41, 6, 48);
+  }
+  
+  p {
+    color: black;
+  }
+  
+  img {
+    max-width: 100%;
+    height: 400px;
+  }
+  a {
+    display: flex;
+    align-content: center;
+  }
